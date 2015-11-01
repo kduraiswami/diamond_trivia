@@ -1,2 +1,7 @@
-First step will be to create migrations from the previous project, I do not think anything needs to be changed from that
+
+
+
+lets start by building out the user (admin) model and functions. This user should be able to create new questions and view a dashboard about site statistics
+
+then we can focus on how these created decks are displayed to the user
 
