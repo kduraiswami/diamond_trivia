@@ -1,6 +1,4 @@
 Next:
-Create the SiteMetric model with all kinds of int fields you can think of:
-would be great to measure the amount of time it takes someone to take a test
 
 
 The admin panel gem is going to be helpful in creating new decks and questions
