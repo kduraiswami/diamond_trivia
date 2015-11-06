@@ -1,8 +1,6 @@
 Next:
-can create a user model:
-username:string
-password:string
-
+research and create a front end layout
+Create routes to hit for decks 
 
 
 I could check and see what happens when I create decks or questions in the admin panel (need associations)
