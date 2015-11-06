@@ -1,6 +1,8 @@
 Next:
-add fields to deck: 
-title, narrative, 
+can create a user model:
+username:string
+password:string
+
 
 
 I could check and see what happens when I create decks or questions in the admin panel (need associations)
